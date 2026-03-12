@@ -447,7 +447,7 @@ body {
 
 /* Sections Base */
 .section {
-    padding: 100px 0;
+    padding: 20px 0;
     flex: 1;
     /* Pushes footer down */
 }
